@@ -1,3 +1,3 @@
 # Visa-token-service
 
-![alt text](certi.png)
+![alt text](Certi.png)
